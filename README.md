@@ -1,2 +1,11 @@
 # Data-Structures-and-algorithms
-Linked lists and AVL Trees
+This project has two parts:
+1. Linked lists:
+   - Singly Linked List
+   - Doubly Linked List
+   - Circular Singly Linked List
+   - Circular Doubly Linked List
+   - Stack Linked List
+   - Queue Lined List
+2. AVL TREE
+It is run with a MAVEN file
